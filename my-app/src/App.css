@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Roboto';
+  src: url('./public/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./public/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
